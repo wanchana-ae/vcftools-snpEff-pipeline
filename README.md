@@ -24,8 +24,9 @@ vcftools-snpEff-pipeline/
 ```
 ## 📝 CSV Format
 
-⚠️ The first line (header) will be skipped automatically. 
-⚠️ CSV must be comma-separated. 
+⚠️ The first line (header) will be skipped automatically.  
+⚠️ CSV must be comma-separated.  
+
 The input CSV must contain the following columns:
 ```
 chr,from_bp,to_bp,out
