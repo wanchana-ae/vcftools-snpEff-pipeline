@@ -38,8 +38,8 @@ chr,from_bp,to_bp,out
 - `to_bp` → End position (bp)  
 - `out` → Output prefix  
 
-## ⚠️ The first line (header) will be skipped automatically.
-## ⚠️ CSV must be comma-separated.
+- ⚠️ The first line (header) will be skipped automatically.
+- ⚠️ CSV must be comma-separated.
 ---
 
 ## 🚀 Usage
